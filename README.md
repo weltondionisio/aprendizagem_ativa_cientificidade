@@ -1,6 +1,6 @@
-# Análise de Competências e Hipóteses em Aprendizagem Ativa
+# Desempenho de educandos na formulação de Hipóteses em aprendizagem ativa de Ciência de Dados
 
-Este repositório apresenta análises estatísticas e visuais sobre hipóteses e competências desenvolvidas em atividades de aprendizagem ativa, utilizando Python e bibliotecas como pandas, numpy, matplotlib e seaborn.
+Este repositório apresenta análises estatísticas e representações visuais sobre o desempenho de estudantes de um curso superior tecnológico quanto à correta formulação de hipóteses diante de problemas envolvendo conjuntos de dados selecionados no Kaggle.
 
 ## Conteúdo
 
@@ -8,10 +8,10 @@ Este repositório apresenta análises estatísticas e visuais sobre hipóteses e
   Testes de normalidade (Shapiro-Wilk), comparação entre grupos (Mann-Whitney U), cálculo de médias, desvios padrão e tamanho do efeito.
 
 - **Visualizações:**  
-  Gráficos de barras comparando hipóteses adequadas e não adequadas, além de gráficos do tipo donut para distribuição das competências avaliadas.
+  Gráficos de barras comparando hipóteses adequadas e não adequadas, além de gráficos do tipo donut para distribuição das marcas formativas avaliadas.
 
 - **Dados:**  
-  Os dados analisados referem-se a respostas de 144 alunos, avaliando competências como Domínio Técnico-Científico, Visão Crítica, Criatividade e Atitude Empreendedora, Comunicação e Colaboração, e Autonomia Digital.
+  Os dados analisados referem-se a respostas de 144 alunos, avaliando marcas formativas como Domínio Técnico-Científico, Visão Crítica, Criatividade e Atitude Empreendedora, Comunicação e Colaboração, e Autonomia Digital.
 
 ## Como executar
 
@@ -35,4 +35,4 @@ pip install pandas numpy matplotlib seaborn scipy
 ```
 
 ## Autor
-Prof. Dr. Welton Dionisio
+[Prof. Dr. Welton Dionisio](https://github.com/weltondionisio)
